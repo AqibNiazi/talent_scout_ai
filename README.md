@@ -1,6 +1,6 @@
 # 🚀 AI-Powered Resume Screening & Job Matching System
 
-A smart hiring assistant that evaluates resumes, extracts skills, and matches candidates to job roles using **Google Gemini**, **Supabase**, and a **modern HR dashboard**.
+A smart hiring assistant that evaluates resumes, extracts skills, and matches candidates to job roles using **Google Gemini** and a **modern HR dashboard**.
 
 ---
 
@@ -166,7 +166,20 @@ Live Demo: **Vercel**
 
 ## 📸 Screenshots
 
-> *Add your dashboard, job configuration, and resume parsing screenshots here.*
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
+### Job Post
+![Job Post](assets/job_post.png)
+
+### Candidates
+![Candidates](assets/candidates.png)
+
+### Upload Resume
+![Upload Resume](assets/resume.png)
+
+### Profile
+![Profile](assets/profiles.png)
 
 ---
 
